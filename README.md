@@ -2,3 +2,4 @@ pandas is a Python package providing fast, flexible, and expressive data structu
 We will overview the main features of this package with a few scientific examples.
 
 For further information: https://pandas.pydata.org/pandas-docs/stable/tutorials.html
+# 2018-03-20
